@@ -1,0 +1,10 @@
+.poetry-button{
+    border: 10000px;;
+    border-color: rgb(173, 21, 21);
+    background-color: antiquewhite;
+    margin-left: 10px;
+}
+.header{
+    display: flex;
+    justify-content: end;
+}
